@@ -1,5 +1,5 @@
-#📊 Customer Behaviour Analysis Project
-#📌 Project Overview
+# 📊 Customer Behaviour Analysis Project
+# 📌 Project Overview
 
 This project focuses on analyzing customer purchasing behavior using an end-to-end data analytics pipeline. It integrates Excel, Jupyter Notebook, PostgreSQL, and Power BI to clean data, extract insights, and visualize key business metrics through an interactive dashboard.
 
@@ -15,7 +15,7 @@ PostgreSQL – Data storage, querying, and analytical SQL insights
 
 Power BI – Interactive dashboard creation and visualization
 
-#🔄 Project Workflow
+# 🔄 Project Workflow
 1️⃣ Data Collection
 
 Raw customer data was initially explored using Excel.
