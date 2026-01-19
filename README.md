@@ -1,11 +1,11 @@
-📊 Customer Behaviour Analysis Project
-📌 Project Overview
+#📊 Customer Behaviour Analysis Project
+#📌 Project Overview
 
 This project focuses on analyzing customer purchasing behavior using an end-to-end data analytics pipeline. It integrates Excel, Jupyter Notebook, PostgreSQL, and Power BI to clean data, extract insights, and visualize key business metrics through an interactive dashboard.
 
 The objective is to understand customer trends, spending patterns, subscription behavior, and product performance to support data-driven decision-making.
 
-🛠️ Tools & Technologies Used
+#🛠️ Tools & Technologies Used
 
 Excel – Initial data inspection and formatting
 
@@ -15,7 +15,7 @@ PostgreSQL – Data storage, querying, and analytical SQL insights
 
 Power BI – Interactive dashboard creation and visualization
 
-🔄 Project Workflow
+#🔄 Project Workflow
 1️⃣ Data Collection
 
 Raw customer data was initially explored using Excel.
@@ -58,7 +58,7 @@ Age group and customer segment analysis
 
 Subscription and discount trends
 
-📈 Key Insights Generated
+#📈 Key Insights Generated
 
 Subscribed customers tend to have higher average spending
 
@@ -70,7 +70,7 @@ Discounts significantly influence purchase decisions
 
 Loyal customers generate consistent revenue
 
-Customer-Behaviour-Analysis
+#Customer-Behaviour-Analysis
 │
 ├── notebooks/
 │   └── customer_behavior.ipynb
@@ -84,7 +84,7 @@ Customer-Behaviour-Analysis
 └── README.md
 
 
-🚀 How to Run This Project
+#🚀 How to Run This Project
 
 Clean and preprocess the dataset using the Jupyter Notebook.
 
@@ -94,10 +94,10 @@ Run the SQL queries provided in the .sql file.
 
 Connect Power BI to PostgreSQL and refresh the dashboard visuals.
 
-📊 Dashboard Preview
+#📊 Dashboard Preview
 
 The Power BI dashboard provides a comprehensive view of customer behavior and helps identify key business insights efficiently.
 
-⭐ Feedback
+#⭐ Feedback
 
 If you find this project useful, feel free to ⭐ the repository and share your feedback.
