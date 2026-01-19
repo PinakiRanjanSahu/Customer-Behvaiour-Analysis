@@ -98,7 +98,7 @@ Connect Power BI to PostgreSQL and refresh the dashboard visuals.
 
 The Power BI dashboard provides a comprehensive view of customer behavior and helps identify key business insights efficiently.
 https://github.com/PinakiRanjanSahu/Customer-Behvaiour-Analysis/blob/main/customer%20behaviour%20dashboard.png
-![]([https://github.com/PinakiRanjanSahu/Zomato_PostgreSQL_Project/blob/main/ERD(Postgresql).png](https://github.com/PinakiRanjanSahu/Customer-Behvaiour-Analysis/blob/main/customer%20behaviour%20dashboard.png
+![Customer Behaviour Dashboard]([https://github.com/PinakiRanjanSahu/Zomato_PostgreSQL_Project/blob/main/ERD(Postgresql).png](https://github.com/PinakiRanjanSahu/Customer-Behvaiour-Analysis/blob/main/customer%20behaviour%20dashboard.png
 )
 
 # ⭐ Feedback
